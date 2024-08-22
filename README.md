@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # personal-portfolio
 # Personal Portfolio Website in React
 
@@ -66,4 +65,3 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
->>>>>>> dc09c06970180ba9870a3d0bd1c847fd45c7d2cf
